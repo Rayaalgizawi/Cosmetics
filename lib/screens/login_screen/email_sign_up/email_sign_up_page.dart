@@ -106,7 +106,7 @@ class _EmailSignUpPageState extends State<EmailSignUpPage> {
                     ? ''
                     : (bloc.success!
                         ? 'Successfully registered ${bloc.userEmail!}'
-                        : 'Registration failed')),
+                        : 'Registration failed?')),
               ),
             ],
           ),
