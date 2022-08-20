@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619399996397",
+    "project_id": "cosmetics-d6219",
+    "storage_bucket": "cosmetics-d6219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619399996397:android:dbd188c72439cb71a5fde4",
+        "android_client_info": {
+          "package_name": "com.example.beauty_pariour2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619399996397-2q64qjddvisohttf6addembjp7hisr9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbLXLKCUlzGdX3VaCX8bSRZu9O54Nii0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619399996397-2q64qjddvisohttf6addembjp7hisr9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
